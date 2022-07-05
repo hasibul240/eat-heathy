@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 90%
+}
+.half-width p{
+    width: 450px;
+    padding-bottom: 40px;
+}
+.flexyble-container{
+    display: flex;
+}
+.skip{
+    color: #0E9BEE
+}
+.order-btn{
+    background-image: linear-gradient(60deg, #0f76eb, #19BBF9);
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 30px;
+    color: white;
+}
